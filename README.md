@@ -9,6 +9,9 @@ SwiftSignatureView is a lightweight, fast and customizable option for capturing 
 
 <img width="432" height="243" alt="swiftsignatureview" src="https://github.com/user-attachments/assets/c3601521-8d80-419a-9e7e-5d961f3d0425" />
 
+## Version 3.3.0
+- SwiftUI representable
+
 ## Version 3.2.6
 - Minimum version lowered back to iOS 13.0
 - Better iOS 17.0 Previews compatibility 
@@ -139,7 +142,7 @@ Add the following lines to your Package.swift file (or just use the Package Mana
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/alankarmisra/SwiftSignatureView.git", from: "3.2.6")
+    .package(url: "https://github.com/alankarmisra/SwiftSignatureView.git", from: "3.3.0")
 ]
 ```
 

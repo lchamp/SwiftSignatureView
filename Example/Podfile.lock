@@ -1,5 +1,5 @@
 PODS:
-  - SwiftSignatureView (3.2.6)
+  - SwiftSignatureView (3.3.0)
 
 DEPENDENCIES:
   - SwiftSignatureView (from `../`)
